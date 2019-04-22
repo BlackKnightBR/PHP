@@ -2,6 +2,6 @@
 
   echo "Olá mundo";
 
-  echo "...pois confiamos que isto é o certo.";
+  echo "Lutamos por aquilo que acreditamos, pois confiamos que isto é o certo.";
 
 ?>
